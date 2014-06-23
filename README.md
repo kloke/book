@@ -1,2 +1,2 @@
-Robust Nonparametric Statistical Methods Using R
-================================================
+Nonparametric Statistical Methods Using R
+=========================================
