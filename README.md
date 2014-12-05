@@ -1,5 +1,5 @@
 Nonparametric Statistical Methods Using R
-=========================================
+-----------------------------------------
 
 At this repository are various packages developed for the book
 Nonparametric Statistical Methods Using R by Kloke and McKean (2014).
@@ -20,7 +20,7 @@ and
 Code and datasets for Chapter 7 are in the packages
 [hbrfit](https://github.com/kloke/hbrfit)
 and 
-npsmReg2.
+[npsmReg2](https://github.com/kloke/npsmReg2).
 
 Packages for Chapter 8 are 
 [jrfit](https://github.com/kloke/jrfit),
@@ -30,3 +30,6 @@ rbgee.
 To install packages directly from github use the R command
 install_github in the [devtools](http://cran.r-project.org/web/packages/devtools/index.html) package.
 
+#### Errata  ####
+* Errata for known errors is available [here](./errata.txt).
+* Code for Figure~4.9 is available [here](./figure4_9.r).
