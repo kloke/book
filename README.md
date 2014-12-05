@@ -27,7 +27,7 @@ and
 Packages for Chapter 8 are 
 [jrfit](https://github.com/kloke/jrfit),
 [mrfit](https://github.com/kloke/mrfit),
-rbgee.
+[rbgee](https://github.com/kloke/rbgee).
 
 To install packages directly from github use the R command
 install_github in the [devtools](http://cran.r-project.org/web/packages/devtools/index.html) package.
