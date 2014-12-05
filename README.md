@@ -31,5 +31,5 @@ To install packages directly from github use the R command
 install_github in the [devtools](http://cran.r-project.org/web/packages/devtools/index.html) package.
 
 #### Errata  ####
-* Errata for known errors is available [here](./errata.txt).
+* Errata for known errors is available [here](./errata.md).
 * Code for Figure~4.9 is available [here](./figure4_9.r).
