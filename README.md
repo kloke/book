@@ -2,7 +2,9 @@ Nonparametric Statistical Methods Using R
 -----------------------------------------
 
 At this repository are various packages developed for the book
-Nonparametric Statistical Methods Using R by Kloke and McKean (2014).
+[Nonparametric Statistical Methods Using R]
+(http://www.crcpress.com/product/isbn/9781439873434)
+by Kloke and McKean.
 
 Releases of 
 [Rfit](http://cran.r-project.org/web/packages/Rfit/index.html) 
