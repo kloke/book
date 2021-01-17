@@ -6,12 +6,16 @@ At this repository are various packages developed for the book
 (http://www.crcpress.com/product/isbn/9781439873434)
 by Kloke and McKean.
 
-Releases of 
+Release~s~ of 
 [Rfit](http://cran.r-project.org/web/packages/Rfit/index.html) 
-and 
-[npsm](http://cran.r-project.org/web/packages/npsm/index.html)
- are available at 
+~and 
+[npsm](http://cran.r-project.org/web/packages/npsm/index.html)~
+ ~are~ is available at 
 [CRAN](http://cran.r-project.org/).
+[npsm](http://cran.r-project.org/web/packages/npsm/index.html)
+is currently only available [here]
+(https://github.com/kloke/npsm).
+
 The current versions of these packages can be installed using the install.packages command in R.
 These packages cover analyses and datasets in Chapters 1-6 of the book.
 Developmental versions of the packages are available at
