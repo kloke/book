@@ -2,15 +2,14 @@ Nonparametric Statistical Methods Using R
 -----------------------------------------
 
 At this repository are various packages developed for the book
-[Nonparametric Statistical Methods Using R]
-(http://www.crcpress.com/product/isbn/9781439873434)
+[Nonparametric Statistical Methods Using R](http://www.crcpress.com/product/isbn/9781439873434)
 by Kloke and McKean.
 
 A release 
 [Rfit](http://cran.r-project.org/web/packages/Rfit/index.html) 
  is available at 
 [CRAN](http://cran.r-project.org/).
-The current versions of these packages can be installed using the install.packages command in R.
+The current version of Rfit can be installed using the install.packages command in R.
 Currently, 
 [npsm](http://cran.r-project.org/web/packages/npsm/index.html)
 is available [here](https://github.com/kloke/npsm) here at github.
