@@ -14,7 +14,7 @@ A release of
 The current version of Rfit can be installed using the install.packages command in R.
 Currently, 
 [npsm](http://cran.r-project.org/web/packages/npsm/index.html)
-is available [here](https://github.com/kloke/npsm) here at github.
+is available [here](https://github.com/kloke/npsm) at github.
 In the future, a updated version of the package may once again be submitted to CRAN.
 
 These two packages cover analyses and datasets in Chapters 1-6 of the book.
