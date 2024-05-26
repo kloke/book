@@ -10,11 +10,12 @@ and [McKean](https://github.com/joemckean/).
 There are two main R packages:
 * [Rfit](https://cran.r-project.org/web/packages/Rfit/index.html) 
 * [npsm](https://cran.r-project.org/web/packages/npsm/index.html)
+<br>
  both available at 
 [CRAN](https://cran.r-project.org/).
 The current CRAN version of Rfit or npsm may be installed using the install.packages command in R.
 These two packages cover the majority of the analyses and datasets in Chapters 1-6 of the book.
-Developmental versions of the packages are available at github
+Developmental versions of the packages may be available at github:
 [Rfit](https://github.com/kloke/Rfit)
 and
 [npsm](https://github.com/kloke/npsm).
