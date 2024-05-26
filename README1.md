@@ -1,4 +1,4 @@
-Nonparametric Statistical Methods Using R
+Nonparametric Statistical Methods Using R (First Edition)
 -----------------------------------------
 
 At this repository are various packages developed for the book
