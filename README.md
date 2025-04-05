@@ -41,3 +41,7 @@ Package for Chapter 11 is
 
 To install packages directly from github use the R command
 install_github in the [remotes](https://cran.r-project.org/web/packages/remotes/index.html) or [devtools](http://cran.r-project.org/web/packages/devtools/index.html) package.
+
+#### Errata  ####
+* Errata for known errors is available [here](./errata.md)
+
